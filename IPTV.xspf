@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+СПИСОК ВОСПРОИЗВЕДЕНИЯ ОТКРЫТЫХ ТЕЛЕКАНАЛОВ
+И РАДИОСТАНЦИЙ СЕТИ NETBYNET
+
+Версия 4 от 26 октября 2011 года
+
+Составитель: Роман А. aka BasicXP
+-->
+
+<playlist version="1" xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/">
+	<title>Цифровое телевидение от Netbynet</title>
+	<creator>Роман А. aka BasicXP</creator>
+	<info>http://tv.netbynet.ru</info>
+	<trackList>
+	
+		<!-- ТЕЛЕКАНАЛЫ -->
+		<track>
+			<location>udp://@233.49.170.10:5000</location>
+			<title>Первый канал</title>
+			<image>logo/1tv.png</image>
+			<info>http://www.1tv.ru</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@233.49.170.51:5000</location>
+			<title>5 Канал Петербург</title>
+			<image>logo/5tv.png</image>
+			<info>http://www.5-tv.ru</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@233.49.170.68:5000</location>
+			<title>Карусель</title>
+			<image>logo/karusel.png</image>
+			<info>http://www.karusel-tv.ru</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@233.49.170.71:5000</location>
+			<title>НТВ</title>
+			<image>logo/ntv.png</image>
+			<info>http://www.ntv.ru</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@233.49.170.79:5000</location>
+			<title>Россия 2</title>
+			<image>logo/rus2.png</image>
+			<info>http://www.sportbox.ru</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@233.49.170.80:5000</location>
+			<title>Россия К</title>
+			<image>logo/rusk.png</image>
+			<info>http://www.tvkultura.ru</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@233.49.170.84:5000</location>
+			<title>Россия 1</title>
+			<image>logo/rus1.png</image>
+			<info>http://www.rutv.ru</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@233.49.170.95:5000</location>
+			<title>Россия 24</title>
+			<image>logo/rus24.png</image>
+			<info>http://www.vesti.ru</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@233.49.170.104:5000</location>
+			<title>MTV Hits</title>
+			<image>logo/mtvhits.png</image>
+			<info></info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@233.49.170.115:5000</location>
+			<title>КХЛ</title>
+			<image>logo/khl.png</image>
+			<info></info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@233.49.170.116:5000</location>
+			<title>Успех</title>
+			<image>logo/uspeh.png</image>
+			<info></info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		
+		<!-- ПРОЧЕЕ -->
+		<track>
+			<location>udp://@233.49.170.6:1234</location>
+			<title>Подушка</title>
+			<image>logo/standby.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:node title="Телевидение">
+			<vlc:item tid="0" />
+			<vlc:item tid="1" />
+			<vlc:item tid="2" />
+			<vlc:item tid="3" />
+			<vlc:item tid="4" />
+			<vlc:item tid="5" />
+			<vlc:item tid="6" />
+			<vlc:item tid="7" />
+			<vlc:item tid="8" />
+			<vlc:item tid="9" />
+			<vlc:item tid="10" />
+		</vlc:node>
+		<vlc:node title="Прочее">
+			<vlc:item tid="11" />
+		</vlc:node>
+	</extension>
+</playlist>
