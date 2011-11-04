@@ -113,6 +113,196 @@
 				<vlc:id>10</vlc:id>
 			</extension>
 		</track>
+		<track>
+			<location>udp://@233.49.170.250:5000</location>
+			<title>ТТС</title>
+			<image>logo/tts.png</image>
+			<info>http://www.ttstv.ru</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@233.49.170.251:5000</location>
+			<title>Домашний магазин</title>
+			<image>logo/dommag.png</image>
+			<info>http://www.domatv.ru</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		
+		<!-- РАДИОСТАНЦИИ -->
+		<track>
+			<location>udp://@233.49.170.249:1234</location>
+			<title>Радио МИР</title>
+			<image>logo/mir.png</image>
+			<info>http://www.mirtvr.by</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>no-video</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@233.49.170.224:1234</location>
+			<title>Love Radio</title>
+			<image>logo/love.png</image>
+			<info>http://www.loveradio.ru</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+				<vlc:option>no-video</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@233.49.170.226:1234</location>
+			<title>Сити FM</title>
+			<image>logo/city.png</image>
+			<info>http://www.city-fm.ru</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+				<vlc:option>no-video</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@233.49.170.227:1234</location>
+			<title>Авторадио</title>
+			<image>logo/avto.png</image>
+			<info>http://www.avtoradio.ru</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+				<vlc:option>no-video</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@233.49.170.228:1234</location>
+			<title>Бизнес FM</title>
+			<image>logo/business.png</image>
+			<info>http://businessfm.bfm.ru</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+				<vlc:option>no-video</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@233.49.170.231:1234</location>
+			<title>Милицейская Волна</title>
+			<image>logo/military.png</image>
+			<info>http://www.radiomv.ru</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+				<vlc:option>no-video</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@233.49.170.234:1234</location>
+			<title>Дорожное Радио</title>
+			<image>logo/doroga.png</image>
+			<info>http://www.dorognoe.ru</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+				<vlc:option>no-video</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@233.49.170.235:1234</location>
+			<title>Радио NRJ</title>
+			<image>logo/nrj.png</image>
+			<info>http://www.energyfm.ru</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+				<vlc:option>no-video</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@233.49.170.236:1234</location>
+			<title>Metro FM</title>
+			<image>logo/metro.png</image>
+			<info>http://www.radiometro.ru</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+				<vlc:option>no-video</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@233.49.170.237:1234</location>
+			<title>Радио Гардарика</title>
+			<image>logo/gardarika.png</image>
+			<info>http://www.gardaricafm.ru</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+				<vlc:option>no-video</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@233.49.170.238:1234</location>
+			<title>Юмор FM</title>
+			<image>logo/humor.png</image>
+			<info>http://www.veseloeradio.ru</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+				<vlc:option>no-video</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@233.49.170.239:1234</location>
+			<title>Радио Казачий Дон</title>
+			<image>logo/kazach.png</image>
+			<info>http://телеикс.рф</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+				<vlc:option>no-video</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@233.49.170.241:1234</location>
+			<title>Радио Алла</title>
+			<image>logo/alla.png</image>
+			<info>http://www.radioalla.ru</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+				<vlc:option>no-video</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@233.49.170.242:1234</location>
+			<title>Радио Рекорд</title>
+			<image>logo/rekord.png</image>
+			<info>http://www.radiorecord.ru</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+				<vlc:option>no-video</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@233.49.170.243:1234</location>
+			<title>Радио Ваня</title>
+			<image>logo/vanya.png</image>
+			<info>http://www.radiovanya.ru</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+				<vlc:option>no-video</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@233.49.170.244:1234</location>
+			<title>Relax FM</title>
+			<image>logo/relax.png</image>
+			<info>http://www.relax-fm.ru</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+				<vlc:option>no-video</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@233.49.170.245:1234</location>
+			<title>Радио Шансон</title>
+			<image>logo/chanson.png</image>
+			<info>http://www.chanson.ru</info>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+				<vlc:option>no-video</vlc:option>
+			</extension>
+		</track>
 		
 		<!-- ПРОЧЕЕ -->
 		<track>
@@ -120,7 +310,7 @@
 			<title>Подушка</title>
 			<image>logo/standby.png</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>11</vlc:id>
+				<vlc:id>30</vlc:id>
 			</extension>
 		</track>
 	</trackList>
@@ -137,9 +327,30 @@
 			<vlc:item tid="8" />
 			<vlc:item tid="9" />
 			<vlc:item tid="10" />
+			<vlc:item tid="11" />
+			<vlc:item tid="12" />
+		</vlc:node>
+		<vlc:node title="Радиостанции">
+			<vlc:item tid="13" />
+			<vlc:item tid="14" />
+			<vlc:item tid="15" />
+			<vlc:item tid="16" />
+			<vlc:item tid="17" />
+			<vlc:item tid="18" />
+			<vlc:item tid="19" />
+			<vlc:item tid="20" />
+			<vlc:item tid="21" />
+			<vlc:item tid="22" />
+			<vlc:item tid="23" />
+			<vlc:item tid="24" />
+			<vlc:item tid="25" />
+			<vlc:item tid="26" />
+			<vlc:item tid="27" />
+			<vlc:item tid="28" />
+			<vlc:item tid="29" />
 		</vlc:node>
 		<vlc:node title="Прочее">
-			<vlc:item tid="11" />
+			<vlc:item tid="30" />
 		</vlc:node>
 	</extension>
 </playlist>
