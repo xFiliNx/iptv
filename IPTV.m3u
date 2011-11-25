@@ -1,0 +1,108 @@
+#EXTM3U
+
+#EXTINF:0,Первый канал
+udp://@233.49.170.10:5000
+
+#EXTINF:0,5 Канал Петербург
+udp://@233.49.170.51:5000
+
+#EXTINF:0,Карусель
+udp://@233.49.170.68:5000
+
+#EXTINF:0,НТВ
+udp://@233.49.170.71:5000
+
+#EXTINF:0,Россия 2
+udp://@233.49.170.79:5000
+
+#EXTINF:0,Россия К
+udp://@233.49.170.80:5000
+
+#EXTINF:0,Россия 1
+udp://@233.49.170.84:5000
+
+#EXTINF:0,Россия 24
+udp://@233.49.170.95:5000
+
+#EXTINF:0,MTV Hits
+udp://@233.49.170.104:5000
+
+#EXTINF:0,Успех
+udp://@233.49.170.116:5000
+
+#EXTINF:0,ТТС
+udp://@233.49.170.250:5000
+
+#EXTINF:0,Домашний магазин
+udp://@233.49.170.251:5000
+
+#EXTINF:0,Радио МИР
+#EXTVLCOPT:no-video
+udp://@233.49.170.249:1234
+
+#EXTINF:0,Love Radio
+#EXTVLCOPT:no-video
+udp://@233.49.170.224:1234
+
+#EXTINF:0,Сити FM
+#EXTVLCOPT:no-video
+udp://@233.49.170.226:1234
+
+#EXTINF:0,Авторадио
+#EXTVLCOPT:no-video
+udp://@233.49.170.227:1234
+
+#EXTINF:0,Бизнес FM
+#EXTVLCOPT:no-video
+udp://@233.49.170.228:1234
+
+#EXTINF:0,Милицейская Волна
+#EXTVLCOPT:no-video
+udp://@233.49.170.231:1234
+
+#EXTINF:0,Дорожное Радио
+#EXTVLCOPT:no-video
+udp://@233.49.170.234:1234
+
+#EXTINF:0,Радио NRJ
+#EXTVLCOPT:no-video
+udp://@233.49.170.235:1234
+
+#EXTINF:0,Metro FM
+#EXTVLCOPT:no-video
+udp://@233.49.170.236:1234
+
+#EXTINF:0,Радио Гардарика
+#EXTVLCOPT:no-video
+udp://@233.49.170.237:1234
+
+#EXTINF:0,Юмор FM
+#EXTVLCOPT:no-video
+udp://@233.49.170.238:1234
+
+#EXTINF:0,Радио Казачий Дон
+#EXTVLCOPT:no-video
+udp://@233.49.170.239:1234
+
+#EXTINF:0,Радио Алла
+#EXTVLCOPT:no-video
+udp://@233.49.170.241:1234
+
+#EXTINF:0,Радио Рекорд
+#EXTVLCOPT:no-video
+udp://@233.49.170.242:1234
+
+#EXTINF:0,Радио Ваня
+#EXTVLCOPT:no-video
+udp://@233.49.170.243:1234
+
+#EXTINF:0,Relax FM
+#EXTVLCOPT:no-video
+udp://@233.49.170.244:1234
+
+#EXTINF:0,Радио Шансон
+#EXTVLCOPT:no-video
+udp://@233.49.170.245:1234
+
+#EXTINF:0,Подушка
+udp://@233.49.170.6:1234
