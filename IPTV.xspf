@@ -90,25 +90,16 @@
 			<location>udp://@233.49.170.104:5000</location>
 			<title>MTV Hits</title>
 			<image>logo/mtvhits.png</image>
-			<info></info>
+			<info>http://mtv.co.uk</info>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>8</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>udp://@233.49.170.115:5000</location>
-			<title>КХЛ</title>
-			<image>logo/khl.png</image>
-			<info></info>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>9</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>udp://@233.49.170.116:5000</location>
 			<title>Успех</title>
 			<image>logo/uspeh.png</image>
-			<info></info>
+			<info>http://uspeh-tv.ru</info>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>10</vlc:id>
 			</extension>
