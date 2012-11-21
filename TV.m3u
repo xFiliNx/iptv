@@ -1,34 +1,43 @@
-#EXTM3U
+#EXTM3U name="Netbynet IPTV"
 
-#EXTINF:-1,Первый канал
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/1tv.png,Первый канал
 udp://@233.49.170.10:5000
 
-#EXTINF:-1,5 канал Петербург
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/5piter.png,5 канал Петербург
 udp://@233.49.170.51:5000
 
-#EXTINF:-1,Карусель
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/karousel.png,Карусель
 udp://@233.49.170.68:5000
 
-#EXTINF:-1,НТВ
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/ntv.png,НТВ
 udp://@233.49.170.71:5000
 
-#EXTINF:-1,Россия 2
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/perets.png,Перец
+udp://@233.49.170.72:5000
+
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/rus2.png,Россия-2
 udp://@233.49.170.79:5000
 
-#EXTINF:-1,Россия К
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/rusk.png,Россия-К
 udp://@233.49.170.80:5000
 
-#EXTINF:-1,Россия 1
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/rus1.png,Россия-1
 udp://@233.49.170.84:5000
 
-#EXTINF:-1,Россия 24
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/rus24.png,Россия-24
 udp://@233.49.170.95:5000
 
-#EXTINF:-1,National Geographic Wild HD
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/natgeohd.png,National Geographic HD
+
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/natgeowildhd.png,National Geographic Wild HD
 udp://@233.49.170.106:5000
 
-#EXTINF:-1,ТТС
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/spas.png,Спас
+udp://@233.49.170.138:5000
+
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/tts.png,ТТС
 udp://@233.49.170.250:5000
 
-#EXTINF:-1,Домашний магазин
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/domatv.png,Домашний магазин
 udp://@233.49.170.251:5000
+
