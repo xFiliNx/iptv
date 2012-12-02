@@ -27,8 +27,14 @@ udp://@233.49.170.84:5000
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/rus24.png,Россия-24
 udp://@233.49.170.95:5000
 
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/noch.png,Русская ночь
+udp://@233.49.170.123:5000
+
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/spas.png,Спас
 udp://@233.49.170.138:5000
+
+#EXTINF:0 logo=http://basicxp.ru/tv_logos/eurosporthd.png,Eurosport HD
+udp://@233.49.170.240:5000
 
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/tts.png,ТТС
 udp://@233.49.170.250:5000
