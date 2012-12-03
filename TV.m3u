@@ -39,8 +39,11 @@ udp://@233.49.170.138:5000
 #EXTINF:0,Татарстан - Новый Век
 udp://@233.49.170.139:5000
 
-#EXTINF:0,TV5 Monde Europe
-udp://@233.49.170.240:5000
+#EXTINF:0,TV5 Monde Europe (240)
+#udp://@233.49.170.240:5000
+
+#EXTINF:0,TV5 Monde Europe (247)
+#udp://@233.49.170.247:5000
 
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/tts.png,ТТС
 udp://@233.49.170.250:5000
