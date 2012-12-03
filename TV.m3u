@@ -33,7 +33,7 @@ udp://@233.49.170.123:5000
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/spas.png,Спас
 udp://@233.49.170.138:5000
 
-#EXTINF:0 logo=http://basicxp.ru/tv_logos/eurosporthd.png,Eurosport HD
+#EXTINF:0,TV5 Monde Europe
 udp://@233.49.170.240:5000
 
 #EXTINF:0 logo=http://basicxp.ru/tv_logos/tts.png,ТТС
